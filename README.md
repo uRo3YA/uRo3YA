@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 "안녕하세요!"
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ltg8693)](https://solved.ac/ltg8693)
